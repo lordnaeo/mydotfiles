@@ -1,0 +1,1248 @@
+# Questo file viminfo è stato generato da Vim 8.2.
+# File modificabile, attento a quel che fai!
+
+# Viminfo version
+|1,4
+
+# Valore di 'encoding' al momento della scrittura di questo file
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ult. Espressione di Ricerca:
+~MSle0~/Scri
+
+# Ult. Sostituzione Espressione di Ricerca:
+~MSle0&3
+
+# Ultima Stringa Sostituzione:
+$
+
+# Riga-di-comando Storia (da più recente a meno recente):
+:q
+|2,0,1717337140,,"q"
+:bd
+|2,0,1694816851,,"bd"
+:db
+|2,0,1694816847,,"db"
+:'<,'>!!
+|2,0,1693578449,,"'<,'>!!"
+:!!
+|2,0,1693578435,,"!!"
+:r!date
+|2,0,1693578421,,"r!date"
+:a!date
+|2,0,1693578404,,"a!date"
+:i!date
+|2,0,1693578375,,"i!date"
+:'<,'>r!!date
+|2,0,1693578350,,"'<,'>r!!date"
+:'<,'>r!date
+|2,0,1693578304,,"'<,'>r!date"
+:'<,'>!!echo "ciao"
+|2,0,1693578201,,"'<,'>!!echo \"ciao\""
+:'<,'>!echo 
+|2,0,1693578054,,"'<,'>!echo "
+:!date
+|2,0,1693578003,,"!date"
+:!!date
+|2,0,1693577982,,"!!date"
+:wq
+|2,0,1692546803,,"wq"
+:q!
+|2,0,1692543848,,"q!"
+:'<,'>
+|2,0,1688591547,,"'<,'>"
+:w
+|2,0,1686527218,,"w"
+:PlugInstall
+|2,0,1686269658,,"PlugInstall"
+:hi CursorLine term=NONE
+|2,0,1686268866,,"hi CursorLine term=NONE"
+:colorscheme darkZ
+|2,0,1686268804,,"colorscheme darkZ"
+:colorscheme anotherdark
+|2,0,1686268784,,"colorscheme anotherdark"
+:colorscheme default
+|2,0,1686268776,,"colorscheme default"
+:colorscheme candy
+|2,0,1686268737,,"colorscheme candy"
+:colorscheme camo
+|2,0,1686268688,,"colorscheme camo"
+:colorscheme calmbreeze
+|2,0,1686268675,,"colorscheme calmbreeze"
+:colorscheme bigbang
+|2,0,1686268629,,"colorscheme bigbang"
+:colorscheme biogoo
+|2,0,1686268587,,"colorscheme biogoo"
+:colorscheme adaryn
+|2,0,1686268303,,"colorscheme adaryn"
+:colorscheme autumnleaf
+|2,0,1686268299,,"colorscheme autumnleaf"
+:colorscheme autumn2
+|2,0,1686268295,,"colorscheme autumn2"
+:colorscheme autumn
+|2,0,1686268291,,"colorscheme autumn"
+:colorscheme anokha
+|2,0,1686268243,,"colorscheme anokha"
+:colorscheme anoka
+|2,0,1686268225,,"colorscheme anoka"
+:colorscheme desertEx
+|2,0,1686268193,,"colorscheme desertEx"
+:.!:q
+|2,0,1686099939,,".!:q"
+:!wq
+|2,0,1686099920,,"!wq"
+:'<,'>"
+|2,0,1686099456,,"'<,'>\""
+:e __hsl.sh
+|2,0,1685032978,,"e __hsl.sh"
+:e Pubbli
+|2,0,1685032955,,"e Pubbli"
+:hi
+|2,0,1683072745,,"hi"
+:help fold
+|2,0,1683072602,,"help fold"
+:%bd!|q
+|2,0,1683067247,,"%bd!|q"
+:tabo
+|2,0,1683065632,,"tabo"
+:help save config
+|2,0,1683022846,,"help save config"
+:help wviminfo
+|2,0,1683022784,,"help wviminfo"
+:hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#484848 guifg=#484848
+|2,0,1682988897,,"hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#484848 guifg=#484848"
+:hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#686868 guifg=#686868
+|2,0,1682988874,,"hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#686868 guifg=#686868"
+:hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#303030 guifg=#303030
+|2,0,1682988816,,"hi VertSplit cterm=NONE ctermfg=243 ctermbg=NONE guibg=#303030 guifg=#303030"
+:colorscheme desert
+|2,0,1682988617,,"colorscheme desert"
+
+# Stringa di Ricerca Storia (da più recente a meno recente):
+? @$
+|2,1,1682959671,,"@$"
+?/Scri
+|2,1,1682950067,47,"Scri"
+?/Srci
+|2,1,1682950058,47,"Srci"
+?/Srci[
+|2,1,1682950054,47,"Srci["
+? 3
+|2,1,1682949820,,"3"
+? netrw_liststyle 3
+|2,1,1682949810,,"netrw_liststyle 3"
+? netrw_liststyle=3
+|2,1,1682949791,,"netrw_liststyle=3"
+?/\.a
+|2,1,1682948002,47,"\\.a"
+?/.a
+|2,1,1682945373,47,".a"
+?/Scr
+|2,1,1682945363,47,"Scr"
+?/scr
+|2,1,1682945350,47,"scr"
+?/vim
+|2,1,1682943579,47,"vim"
+? ^\t
+|2,1,1682893118,,"^\\t"
+? ^#
+|2,1,1682892971,,"^#"
+?/bold
+|2,1,1682873138,47,"bold"
+? AD7FA8
+|2,1,1682873058,,"AD7FA8"
+? cursor
+|2,1,1682873021,,"cursor"
+? ^" \a
+|2,1,1682870737,,"^\" \\a"
+? \<headerbar\>
+|2,1,1682869642,,"\\<headerbar\\>"
+? \/\*
+|2,1,1682869619,,"\\/\\*"
+? \.gedit
+|2,1,1682815588,,"\\.gedit"
+? 113,137,49
+|2,1,1682199227,,"113,137,49"
+? 101,123,105
+|2,1,1682183199,,"101,123,105"
+? picture-uri
+|2,1,1652261804,,"picture-uri"
+?/%s/picture-uri/picture-uri-dark/gc
+|2,1,1652261138,47,"%s/picture-uri/picture-uri-dark/gc"
+?/:%s/picture-uri/picture-uri-dark/gc
+|2,1,1652261119,47,":%s/picture-uri/picture-uri-dark/gc"
+?/:%s/picture-uri/bar/gc
+|2,1,1652261085,47,":%s/picture-uri/bar/gc"
+?/ora
+|2,1,1651655931,47,"ora"
+? \<QT_QPA_PLATFORMTHEME\>
+|2,1,1647875725,,"\\<QT_QPA_PLATFORMTHEME\\>"
+?/Exec
+|2,1,1644287124,47,"Exec"
+?/exec
+|2,1,1644287120,47,"exec"
+?/exa
+|2,1,1642342654,47,"exa"
+?/true
+|2,1,1639244125,47,"true"
+?/false
+|2,1,1639244121,47,"false"
+?/style
+|2,1,1637516377,47,"style"
+
+# Espressione Storia (da più recente a meno recente):
+
+# Riga di Input Storia (da più recente a meno recente):
+
+# Riga di Debug Storia (da più recente a meno recente):
+
+# Registri:
+"0	CHAR	0
+	|g:netrw_liststyle|
+|3,0,0,0,1,0,1682959671,"|g:netrw_liststyle|"
+""1	BLOCK	0
+	i
+	e
+	e
+	e
+	e
+	e
+	f
+|3,1,1,2,7,0,1691880398,"i","e","e","e","e","e","f"
+"2	LINE	0
+	
+|3,0,2,1,1,0,1686269698,""
+"3	LINE	0
+	
+	
+	
+	prova
+	
+|3,0,3,1,5,0,1683208446,"","","","prova",""
+"4	BLOCK	31
+	_NOTTE-001-LAVORO-DI-IERI.css   
+	_appunti-nouvo-video.txt        
+	bolletta.txt                    
+	expand.txt                      
+	gedit-cerca.css                 
+	lista-da-escludere.txt          
+	nuovo-gtk.css                   
+	package-lock.json               
+	plot.txt                        
+	prova.txt                       
+	tilix-hue.json                  
+|3,0,4,2,11,31,1682950078,"_NOTTE-001-LAVORO-DI-IERI.css   ","_appunti-nouvo-video.txt        ","bolletta.txt                    ","expand.txt                      ","gedit-cerca.css                 ","lista-da-escludere.txt          ","nuovo-gtk.css                   ","package-lock.json               ","plot.txt                        ","prova.txt                       ","tilix-hue.json                  "
+"5	BLOCK	31
+	.gitconfig                      
+	.gtkrc-2.0                      
+	.hueadm.json                    
+	.lesshst                        
+	.profile                        
+	.python_history                 
+	.selected_editor                
+	.sudo_as_admin_successful       
+	.token                          
+	.viminfo                        
+	.vimrc                          
+	.vimrc.bkp                      
+	.vimrc.bkp2                     
+	.vimrc.bkp3                     
+	.wget-hsts                      
+	KDE_Importante.txt              
+|3,0,5,2,16,31,1682950078,".gitconfig                      ",".gtkrc-2.0                      ",".hueadm.json                    ",".lesshst                        ",".profile                        ",".python_history                 ",".selected_editor                ",".sudo_as_admin_successful       ",".token                          ",".viminfo                        ",".vimrc                          ",".vimrc.bkp                      ",>34
+|<".vimrc.bkp2                     ",".vimrc.bkp3                     ",".wget-hsts                      ","KDE_Importante.txt              "
+"6	BLOCK	31
+	__hsl.sh*                       
+	_prova.py*                      
+	_prova.sh*                      
+	_prova2.sh*                     
+	conveti_hex_hsl_hsl_hex.py*     
+	hellow0rd*                      
+	prova.sh*                       
+	.apport-ignore.xml              
+	.bash_aliases                   
+	.bash_functions                 
+	.bash_history                   
+	.bash_logout                    
+	.bashrc                         
+	.directory                      
+	.gawk_history                   
+	.gawkrc                         
+|3,0,6,2,16,31,1682950078,"__hsl.sh*                       ","_prova.py*                      ","_prova.sh*                      ","_prova2.sh*                     ","conveti_hex_hsl_hsl_hex.py*     ","hellow0rd*                      ","prova.sh*                       ",".apport-ignore.xml              ",".bash_aliases                   ",".bash_functions                 ",".bash_history                   ",".bash_logout                    ",>34
+|<".bashrc                         ",".directory                      ",".gawk_history                   ",".gawkrc                         "
+"7	BLOCK	31
+	Documenti/                      
+	Git/                            
+	Immagini/                       
+	Modelli/                        
+	Musica/                         
+	Pubblici/                       
+	Scaricati/                      
+	Script/                         
+	Scrivania/                      
+	Temp/                           
+	Video/                          
+	X/                              
+	aNoise/                         
+	snap/                           
+	hw.cpp                          
+	_APPUNTI-HUE.sh*                
+|3,0,7,2,16,31,1682950078,"Documenti/                      ","Git/                            ","Immagini/                       ","Modelli/                        ","Musica/                         ","Pubblici/                       ","Scaricati/                      ","Script/                         ","Scrivania/                      ","Temp/                           ","Video/                          ","X/                              ",>34
+|<"aNoise/                         ","snap/                           ","hw.cpp                          ","_APPUNTI-HUE.sh*                "
+"8	BLOCK	31
+	.kde/                           
+	.launchpadlib/                  
+	.librewolf/                     
+	.local/                         
+	.mozilla/                       
+	.npm/                           
+	.parallel/                      
+	.pki/                           
+	.ssh/                           
+	.stellarium/                    
+	.themes/                        
+	.tldr/                          
+	.var/                           
+	.vim/                           
+	.xnviewmp/                      
+	Altro/                          
+|3,0,8,2,16,31,1682950078,".kde/                           ",".launchpadlib/                  ",".librewolf/                     ",".local/                         ",".mozilla/                       ",".npm/                           ",".parallel/                      ",".pki/                           ",".ssh/                           ",".stellarium/                    ",".themes/                        ",".tldr/                          ",>34
+|<".var/                           ",".vim/                           ",".xnviewmp/                      ","Altro/                          "
+"9	BLOCK	43
+	yaru-colori (seconda copia).sh*             
+	yaru-colori.sh*                             
+	yaru-estrai-colori.sh*                      
+	zenity_password.sh*                         
+	conto-poste-amazon-lampadina-striscia.txt   
+	hue-bkp.txt                                 
+|3,0,9,2,6,43,1682949958,"yaru-colori (seconda copia).sh*             ","yaru-colori.sh*                             ","yaru-estrai-colori.sh*                      ","zenity_password.sh*                         ","conto-poste-amazon-lampadina-striscia.txt   ","hue-bkp.txt                                 "
+"-	CHAR	0
+	/home/leo/.local/bin/nvim
+|3,0,36,0,1,0,1687991008,"/home/leo/.local/bin/nvim"
+
+# File mark:
+'0  1  0  ~/Documenti/256_colors_fg.png
+|4,48,1,0,1717337140,"~/Documenti/256_colors_fg.png"
+'1  1  0  ~/plot.txt
+|4,49,1,0,1695165572,"~/plot.txt"
+'2  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,50,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+'3  1  0  ~/alien.txt
+|4,51,1,0,1693830779,"~/alien.txt"
+'4  24  0  ~/_prova.sh
+|4,52,24,0,1693578502,"~/_prova.sh"
+'5  2  17  ~/w.txt
+|4,53,2,17,1692546803,"~/w.txt"
+'6  3  0  ~/prova.sh
+|4,54,3,0,1692543848,"~/prova.sh"
+'7  3  0  ~/prova.sh
+|4,55,3,0,1692543556,"~/prova.sh"
+'8  1  0  /tmp/bash-fc.cvKq7P
+|4,56,1,0,1692006962,"/tmp/bash-fc.cvKq7P"
+'9  3  0  ~/prova.sh
+|4,57,3,0,1691880537,"~/prova.sh"
+
+# Jumplist (dai più recenti):
+-'  1  0  ~/Documenti/256_colors_fg.png
+|4,39,1,0,1717337140,"~/Documenti/256_colors_fg.png"
+-'  1  0  ~/plot.txt
+|4,39,1,0,1695165572,"~/plot.txt"
+-'  1  0  ~/plot.txt
+|4,39,1,0,1695165572,"~/plot.txt"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+-'  1  0  ~/Scaricati/PXL_20211029_063553949.jpg
+|4,39,1,0,1693868171,"~/Scaricati/PXL_20211029_063553949.jpg"
+
+# Storia delle marcature all'interno dei file (dalle più recenti alle meno recenti):
+
+> ~/Documenti/256_colors_fg.png
+	*	1717337123	0
+	"	1	0
+
+> ~/plot.txt
+	*	1695165537	0
+	"	1	0
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1694816847	0
+	"	1	0
+
+> ~/Scaricati/PXL_20211029_063553949.jpg
+	*	1693868158	0
+	"	1	0
+
+> ~/alien.txt
+	*	1693830774	0
+	"	1	0
+
+> ~/_prova.sh
+	*	1693578458	0
+	"	24	0
+	.	25	0
+	+	12	0
+	+	26	0
+	+	25	0
+
+> ~/w.txt
+	*	1692546800	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/prova.sh
+	*	1692543841	0
+	"	3	0
+
+> /tmp/bash-fc.cvKq7P
+	*	1692006956	0
+	"	1	0
+
+> ~/.config/kitty/kitty.conf
+	*	1691361223	0
+	"	64	0
+	^	66	0
+	.	65	62
+	+	130	0
+	+	62	80
+	+	63	1
+	+	62	41
+	+	63	80
+	+	65	37
+	+	65	62
+
+> /tmp/bash-fc.7CZsmf
+	*	1688937516	0
+	"	1	0
+
+> ~/Script/sospendi.sh
+	*	1688591556	0
+	"	5	0
+
+> ~/.zshrc
+	*	1687991015	0
+	"	209	47
+	^	209	48
+	.	209	46
+	+	209	46
+
+> ~/Scaricati/gtk.peninsula.css
+	*	1687429161	0
+	"	1	0
+
+> ~/hw.cpp
+	*	1686476056	0
+	"	4	0
+	^	4	12
+	.	4	12
+	+	6	0
+	+	4	12
+
+> ~/gedit-cerca.css
+	*	1686476025	0
+	"	1	0
+	^	30	0
+	.	73	0
+	+	57	1
+	+	66	0
+	+	39	0
+	+	19	1
+	+	15	0
+	+	30	0
+	+	82	0
+	+	73	0
+
+> ~/.vimrc
+	*	1686269698	0
+	"	156	0
+	.	156	0
+	+	44	0
+	+	121	19
+	+	13	0
+	+	155	0
+	+	174	27
+	+	156	0
+	+	157	30
+	+	156	4
+	+	157	4
+	+	156	0
+
+> ~/-MINIMAP-
+	*	1686267232	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.wezterm.lua
+	*	1686265417	0
+	"	16	23
+
+> ~/.profile
+	*	1686100062	0
+	"	40	0
+	^	36	0
+	.	36	0
+	+	27	2
+	+	29	62
+	+	32	0
+	+	31	65
+	+	29	61
+	+	33	42
+	+	33	0
+	+	29	82
+	+	34	26
+	+	35	0
+	+	36	0
+	+	35	27
+	+	36	22
+	+	35	25
+	+	36	0
+	+	35	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	36	18
+	+	35	0
+	+	36	0
+
+> /etc/profile
+	*	1686099966	0
+	"	31	0
+	.	30	0
+	+	31	42
+	+	31	0
+	+	30	0
+
+> ~/__hsl.sh
+	*	1685032986	0
+	"	3	35
+
+> ~/Script/-MINIMAP-
+	*	1684883414	0
+	"	1	0
+
+> ~/Scrivania/-MINIMAP-
+	*	1684534950	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Scrivania/Appunti Sed.md
+	*	1684534903	0
+	"	1	0
+
+> ~/.bash_aliases
+	*	1684417057	0
+	"	37	0
+	^	36	33
+	.	36	32
+	+	77	0
+	+	79	11
+	+	4	15
+	+	6	25
+	+	7	27
+	+	8	27
+	+	1	21
+	+	9	19
+	+	6	11
+	+	6	130
+	+	34	32
+	+	34	132
+	+	34	0
+	+	6	0
+	+	7	0
+	+	5	0
+	+	6	9
+	+	5	9
+	+	6	134
+	+	5	134
+	+	6	136
+	+	6	10
+	+	6	70
+	+	6	71
+	+	6	0
+	+	5	115
+	+	5	9
+	+	102	0
+	+	100	0
+	+	101	30
+	+	1	75
+	+	27	74
+	+	38	73
+	+	36	32
+
+> ~/testo.txt
+	*	1683633938	0
+	"	31	95
+	^	31	96
+	.	31	94
+	+	31	94
+
+> ~/.config/nvim/init.vim
+	*	1683304094	0
+	"	88	0
+	^	89	1
+	.	89	0
+	+	89	0
+
+> ~/Script/chrome-dark.sh
+	*	1683294770	0
+	"	6	31
+
+> ~/.local/share/applications/google-chrome.desktop
+	*	1683294726	0
+	"	28	0
+
+> ~/.var/app/org.kde.dolphin/config/kdeglobals
+	*	1683209084	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	0
+	+	1	23
+	+	1	3
+
+> ~/Script/yaru-colori.sh
+	*	1683104415	0
+	"	109	21
+	.	109	21
+	+	109	21
+
+> /usr/share/vim/vim82/doc/fold.txt
+	*	1683072606	0
+	"	298	20
+
+> ~/prova.txt
+	*	1683068559	0
+	"	1	0
+	^	14	0
+	.	13	0
+	+	14	0
+	+	13	0
+
+> ~/.config/nvim/villa-piovosa.vimrc
+	*	1683066621	0
+	"	1	0
+
+> ~/Scrivania/012.xml
+	*	1683066297	0
+	"	150	0
+
+> ~/Scrivania/011.xml
+	*	1683066291	0
+	"	142	0
+	^	20	0
+	.	38	0
+	+	38	0
+
+> /usr/share/vim/vim82/doc/starting.txt
+	*	1683022830	0
+	"	1653	9
+
+> ~/Script/estrai-scene.awk
+	*	1682988967	0
+	"	77	0
+	^	77	0
+	.	76	2
+	+	20	1
+	+	22	0
+	+	76	2
+
+> ~/.netrwhist
+	*	1682977795	0
+	"	1	0
+	+	1	0
+
+> ~/Script/apt-show.py
+	*	1682956879	0
+	"	2	0
+
+> ~/NetrwTreeListing
+	*	1682950128	0
+	"	1	0
+	.	47	0
+	+	47	0
+
+> /usr/share/vim/vim82/doc/pi_netrw.txt
+	*	1682949638	0
+	"	2811	2
+
+> ~/Explore
+	*	1682944070	0
+	"	1	0
+
+> /usr/share/vim/vim82/doc/autocmd.txt
+	*	1682898869	0
+	"	1517	6
+
+> /usr/share/vim/vim82/doc/editing.txt
+	*	1682898799	0
+	"	233	14
+
+> /usr/share/vim/vim82/doc/motion.txt
+	*	1682898701	0
+	"	392	7
+
+> ~/Script/tmp.sh
+	*	1682894725	0
+	"	122	73
+	.	130	0
+	+	50	0
+	+	136	0
+	+	138	0
+	+	130	0
+	+	142	0
+	+	130	0
+
+> ~/option-window
+	*	1682891191	0
+	"	1	0
+	.	1022	0
+	+	1022	0
+
+> ~/Scrivania/telegram-color.txt
+	*	1682872737	0
+	"	5	0
+
+> /usr/share/vim/vim82/syntax/colortest.vim
+	*	1682870737	0
+	"	52	0
+
+> ~/nuovo-gtk.css
+	*	1682865784	0
+	"	74	0
+	^	21	2
+	.	15	0
+	+	20	0
+	+	15	0
+
+> /usr/share/vim/vim82/doc/map.txt
+	*	1682846118	0
+	"	706	0
+
+> /usr/share/vim/vim82/doc/syntax.txt
+	*	1682814265	0
+	"	5365	26
+
+> ~/_NOTTE-001-LAVORO-DI-IERI.css
+	*	1682785998	0
+	"	1	0
+
+> ~/.var/app/org.kde.dolphin/config/dolphinrc
+	*	1682723355	0
+	"	1	0
+
+> ~/Highlight test
+	*	1682548110	0
+	"	2	0
+	^	64	12
+	.	48	0
+	+	41	0
+	+	48	0
+
+> ~/.config/QtProject.conf
+	*	1682526671	0
+	"	1	0
+
+> ~/.var/app/org.videolan.VLC/config/vlc/vlc-qt-interface.conf
+	*	1682522908	0
+	"	20	0
+
+> ~/.config/Trolltech.conf
+	*	1682520232	0
+	"	61	0
+	^	2	13
+	.	2	0
+	+	43	26
+	+	43	30
+	+	44	0
+	+	2	0
+
+> ~/xdg-config/kdeglobals
+	*	1682520082	0
+	"	1	0
+
+> ~/.config/kdeglobals
+	*	1682339022	0
+	"	140	0
+	.	26	0
+	+	26	0
+
+> ~/.config/kdeglobals.bkp
+	*	1682183057	0
+	"	1	0
+
+> ~/Scrivania/icone/edit-paste-symbolic.svg
+	*	1681395364	0
+	"	3	16
+	^	3	17
+	.	3	10
+	+	3	10
+
+> /etc/samba/smb.conf
+	*	1681307524	0
+	"	187	0
+
+> /etc/apt/sources.list
+	*	1679823587	0
+	"	1	0
+
+> ~/bms.dconf
+	*	1672787224	0
+	"	2	9
+	^	2	10
+	.	6	0
+	+	1	0
+	+	1	9
+	+	2	0
+	+	6	0
+
+> ~/Script/converti-colori.sh
+	*	1667865972	0
+	"	7	13
+	^	7	16
+	.	7	15
+	+	3	27
+	+	5	15
+	+	12	4
+	+	5	13
+	+	12	16
+	+	15	0
+	+	5	6
+	+	8	16
+	+	7	15
+
+> ~/.local/share/themes/adw-gtk3-dark/gtk-4.0/gtk.css
+	*	1665061837	0
+	"	1	27
+	^	1	28
+	.	1	0
+	+	3	0
+	+	1	0
+
+> ~/.local/share/themes/adw-gtk3/gtk-4.0/gtk.css
+	*	1665061797	0
+	"	1	28
+	^	1	29
+	.	1	0
+	+	1	0
+
+> ~/.local/bin/pano.sh
+	*	1661872257	0
+	"	3	28
+	^	3	29
+	.	3	13
+	+	3	13
+
+> ~/Documenti/App/DConf/am.dconf
+	*	1661463391	0
+	"	3	0
+
+> ~/.config/gtk-4.0/gtk.css
+	*	1660233272	0
+	"	20	0
+	.	21	0
+	+	21	0
+
+> ~/Temp/dconf/bms.dconf
+	*	1660173091	0
+	"	1	0
+	^	6	37
+	.	1	0
+	+	1	0
+	+	6	0
+	+	1	0
+
+> ~/.hidamari/video_player.py
+	*	1652261813	0
+	"	222	0
+	.	222	0
+	+	60	0
+	+	219	0
+	+	222	0
+
+> ~/X/hidamari/video_player.py
+	*	1652261213	0
+	"	222	0
+	^	60	72
+	.	222	0
+	+	60	69
+	+	219	0
+	+	222	0
+
+> ~/.bashrc
+	*	1652144102	0
+	"	101	0
+	^	164	26
+	.	164	17
+	+	167	0
+	+	152	8
+	+	155	0
+	+	154	6
+	+	155	0
+	+	158	0
+	+	157	0
+	+	139	18
+	+	140	19
+	+	167	80
+	+	167	0
+	+	168	79
+	+	169	80
+	+	132	0
+	+	161	0
+	+	159	0
+	+	160	0
+	+	132	105
+	+	131	0
+	+	131	105
+	+	160	0
+	+	161	0
+	+	165	0
+	+	164	17
+
+> ~/Temp/tmp/App dark theme.html
+	*	1651935873	0
+	"	22	1
+
+> ~/Temp/tmp/prova.sh
+	*	1651657330	0
+	"	8	29
+	^	11	0
+	.	10	31
+	+	13	8
+	+	11	10
+	+	13	15
+	+	5	12
+	+	6	0
+	+	19	0
+	+	10	31
+
+> ~/.bash_functions
+	*	1651528151	0
+	"	78	40
+	.	78	40
+	+	78	40
+
+> ~/.var/app/org.gnome.Epiphany/data/epiphany/user-stylesheet.css
+	*	1650881897	0
+	"	46	0
+	^	3738	69
+	.	3738	64
+	+	1	2
+	+	3738	64
+
+> ~/Git/googler/README.TXT
+	*	1650759565	0
+	"	9	23
+	^	9	24
+	.	9	0
+	+	10	0
+	+	1	0
+	+	7	0
+	+	1	5
+	+	4	13
+	+	1	0
+	+	6	0
+	+	10	0
+	+	9	0
+
+> ~/Nuovo file.html
+	*	1648737969	0
+	"	78	0
+
+> ~/Temp/tmp/preview.html
+	*	1648400551	0
+	"	1	0
+
+> ~/Temp/tmp/Prima prova.html
+	*	1648400539	0
+	"	1	298
+
+> ~/.local/share/flatpak/exports/share/applications/io.github.celluloid_player.Celluloid.desktop
+	*	1645031393	0
+	"	103	4
+	^	103	5
+	.	103	5
+	+	103	5
+
+> ~/.local/share/flatpak/exports/share/applications/com.belmoussaoui.Authenticator.desktop
+	*	1644544414	0
+	"	73	55
+	^	73	56
+	.	73	56
+	+	73	56
+
+> ~/.local/share/flatpak/app/com.belmoussaoui.Authenticator/x86_64/stable/ee278e760e55c9daab2144cae5314f5fcb79ab51e1349383369472915d20fd2e/files/share/applications/com.belmoussaoui.Authenticator.desktop
+	*	1644544294	0
+	"	73	0
+
+> ~/Temp/tmp/somefile
+	*	1642377704	0
+	"	1	0
+
+> ~/Git/gthumb/gthumb/meson_options.txt
+	*	1639245219	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	9	13
+	+	33	13
+	+	101	0
+	+	3	14
+	+	33	13
+	+	3	14
+
+> meson_options.txt
+	*	1639245113	0
+	"	1	0
+
+> ~/Git/libadwaita/libadwaita/src/adw-main.c
+	*	1637516377	0
+	"	10	14
+
+> ~/X/android/.profile
+	*	1636908388	0
+	"	1	0
+
+> ~/Scaricati/hidamari/install.sh
+	*	1636588715	0
+	"	46	0
+
+> ~/.local/share/applications/hidamari.desktop
+	*	1636588621	0
+	"	1	0
+
+> ~/Script/openRGB/orgb.py
+	*	1635900094	0
+	"	8	5
+	^	8	6
+	.	8	5
+	+	5	0
+	+	5	1
+	+	5	0
+	+	5	3
+	+	5	48
+	+	5	51
+	+	5	0
+	+	8	5
+
+> ~/.config/OpenRGB/OpenRGB.json
+	*	1635720790	0
+	"	470	29
+	.	470	29
+	+	466	30
+	+	470	29
+
+> /usr/share/applications/org.gnome.Nautilus.desktop
+	*	1635643640	0
+	"	1	0
+
+> ~/.hueadm.json
+	*	1635462586	0
+	"	2	4
+	^	2	55
+	.	2	13
+	+	4	0
+	+	3	22
+	+	2	13
+
+> ~/X/firefox/firefox
+	*	1635329359	0
+	"	1	0
