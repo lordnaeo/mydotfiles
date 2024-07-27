@@ -1,0 +1,1 @@
+ERR 2023-09-18T15:27:47.373 nvim.237833.0 os_set_cloexec:495: Failed to get flags on descriptor 3: Descrittore di file errato
