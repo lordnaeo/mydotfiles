@@ -1,0 +1,12 @@
+[FileDialogSize]
+HDMI-2 Height 1920x1080=856
+HDMI-2 Width 1920x1080=1075
+
+[KFileDialog Settings]
+Recent Files[$e]=camino001.m4v,file:$HOME/aNoise/camino001.m4v
+Recent URLs[$e]=file:$HOME/aNoise/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-2 Height 1920x1080=603
+HDMI-2 Width 1920x1080=665
