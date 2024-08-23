@@ -1074,3 +1074,28 @@
 [START][2024-07-25 11:14:31] LSP logging initiated
 [ERROR][2024-07-25 11:14:31] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:141068) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
 [WARN][2024-07-25 11:14:31] ...lsp/handlers.lua:625	"09:14:31.075 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
+[START][2024-08-11 00:08:14] LSP logging initiated
+[ERROR][2024-08-11 00:08:14] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:1628611) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-08-11 00:08:14] ...lsp/handlers.lua:625	"22:08:14.668 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
+[START][2024-08-13 02:44:06] LSP logging initiated
+[ERROR][2024-08-13 02:44:06] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:34446) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-08-13 02:44:06] ...lsp/handlers.lua:625	"00:44:06.810 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
+[WARN][2024-08-13 02:45:43] ...lsp/handlers.lua:625	"00:45:43.718 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[WARN][2024-08-13 02:45:43] ...lsp/handlers.lua:625	"00:45:43.745 WARNING ⛔️ Error while parsing file:///usr/share/bash-completion/bash_completion: syntax error"
+[START][2024-08-13 02:49:38] LSP logging initiated
+[ERROR][2024-08-13 02:49:38] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:35219) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-08-13 02:49:38] ...lsp/handlers.lua:625	"00:49:38.997 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
+[WARN][2024-08-13 02:50:10] ...lsp/handlers.lua:625	"00:50:10.415 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[WARN][2024-08-13 02:50:13] ...lsp/handlers.lua:625	"00:50:13.769 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[WARN][2024-08-13 02:50:13] ...lsp/handlers.lua:625	"00:50:13.795 WARNING ⛔️ Error while parsing file:///usr/share/bash-completion/bash_completion: syntax error"
+[WARN][2024-08-13 02:50:16] ...lsp/handlers.lua:625	"00:50:16.625 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[START][2024-08-14 09:33:16] LSP logging initiated
+[ERROR][2024-08-14 09:33:16] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:78598) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-08-14 09:33:17] ...lsp/handlers.lua:625	"07:33:17.018 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
+[WARN][2024-08-14 09:33:34] ...lsp/handlers.lua:625	"07:33:34.186 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[WARN][2024-08-14 09:33:48] ...lsp/handlers.lua:625	"07:33:48.318 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[WARN][2024-08-14 09:33:48] ...lsp/handlers.lua:625	"07:33:48.346 WARNING ⛔️ Error while parsing file:///usr/share/bash-completion/bash_completion: syntax error"
+[WARN][2024-08-14 09:33:52] ...lsp/handlers.lua:625	"07:33:52.053 WARNING ⛔️ Error while parsing file:///home/leo/.bashrc: syntax error"
+[START][2024-08-17 10:49:50] LSP logging initiated
+[ERROR][2024-08-17 10:49:50] .../vim/lsp/rpc.lua:770	"rpc"	"/home/linuxbrew/.linuxbrew/bin/bash-language-server"	"stderr"	"(node:88263) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n"
+[WARN][2024-08-17 10:49:50] ...lsp/handlers.lua:625	"08:49:50.553 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt"
